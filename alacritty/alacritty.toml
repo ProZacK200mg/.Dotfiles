@@ -1,0 +1,36 @@
+[window]
+opacity = 0.9
+blur = true
+dynamic_title = false
+
+[font]
+normal = { family = "SourceCodeVF", style = "Regular" }
+size = 8
+
+[colors.primary]
+background = "#1e1e1e"
+foreground = "#a7a7a7"
+
+[colors.cursor]
+text = "#1e1e1e"
+cursor = "#a7a7a7"
+
+[colors.normal]
+black = "#1e1e1e"
+red = "#cf4c4c"
+green = "#649d64"
+yellow = "#f9f998"
+blue = "#7578a6"
+magenta = "#a571a0"
+cyan = "#afdadb"
+white = "#a7a7a7"
+
+[colors.bright]
+black = "#5f5f5f"
+red = "#cf4c4c"
+green = "#649d64"
+yellow = "#f9f998"
+blue = "#7578a6"
+magenta = "#a571a0"
+cyan = "#afdadb"
+white = "#ffffff"

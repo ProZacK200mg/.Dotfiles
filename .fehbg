@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/prozack200mg/Pictures/wallpaper/mountian.jpg' '/home/prozack200mg/Pictures/wallpaper/forest_rain.jpg' '/home/prozack200mg/Pictures/wallpaper/forest.jpg' '/home/prozack200mg/Pictures/wallpaper/rock_mountian.jpg' '/home/prozack200mg/Pictures/wallpaper/flat_desert.jpg' 
